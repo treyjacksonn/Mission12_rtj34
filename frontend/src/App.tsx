@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 
+// calls the Welcome and TeamList functions
 function App() {
   return (
     <div>
